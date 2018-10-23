@@ -1,13 +1,14 @@
 ---
 layout:     post
-title:      "受精苞的爱情故事 "
-subtitle:   "the love of shou shox and baolei "
-date:       2018-10-23 02:00:00
-author:     "Dreaming Forest"
+title:      "春-晨"
+subtitle:   "Spring and morning"
+date:       2018-01-09 23:00:00
+author:     "Hector.Z"
 header-img: "img/post-think-try-write.jpg"
 tags:
-    - 文章
+    - 聊聊
 ---
+
 
     兽逼又看着窗外城市发呆了，最近挺累的，高强度的赛程让兽有点吃不消，想要放空一下来缓解一下压力。
     
