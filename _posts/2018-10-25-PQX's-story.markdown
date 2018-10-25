@@ -4,7 +4,7 @@ title:      "裴卿勋（二） "
 subtitle:   "the story of Qingxun Pei "
 date:       2018-10-25 14:30:00
 author:     "Dr-F"
-header-img: "img/post-think-try-write.jpg"
+header-img: "img/zuiyu01.jpg"
 tags:
     - 文章
 ---
