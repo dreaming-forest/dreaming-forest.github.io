@@ -3,7 +3,7 @@ layout:     post
 title:      "罪域（瞳中夜色）——推荐"
 date:       2018-10-24 17:00:00
 author:     "Dr-F"
-header-img: "img/rongbaio03.jpg"
+header-img: "img/rongbai03.jpg"
 tags:
     - 文章
 ---
