@@ -38,14 +38,18 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
+# Support for LiveRe comments system.
+# You can get your uid from https://livere.com/insight/myCode (General web site)
+# liver settings
+livere_uid: MTAyMC80MDU2Mi8xNzA4OQ==
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+# disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: Bebop.C
+# duoshuo_username: Bebop.C
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: false                     # set to false if you want to use Comment without Sharing
+# duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
